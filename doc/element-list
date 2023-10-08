@@ -1,0 +1,11 @@
+unnamed package
+executionTests
+it.unicam.cs.followme
+it.unicam.cs.followme.app
+it.unicam.cs.followme.app.menu
+it.unicam.cs.followme.commands
+it.unicam.cs.followme.model
+it.unicam.cs.followme.model.exploration
+it.unicam.cs.followme.util
+it.unicam.cs.followme.utilities
+modelTests
