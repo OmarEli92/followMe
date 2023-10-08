@@ -21,6 +21,6 @@
 <pre align="center"><code>gradle build</code></pre>
 <pre align="center"><code>gradle run</code></pre>
 <h4 align="center">GUI</h4>
-![Screenshot_Main](https://github.com/OmarEli92/followme/blob/main/Screenshot_Main.png)
+![Screenshot_Main](https://github.com/OmarEli92/followme/assets/131019858/69bbb68c-711a-4082-a814-53becbd0a9fc)
 
 
